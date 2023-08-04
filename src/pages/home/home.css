@@ -21,3 +21,19 @@ flex-shrink: 0;
 line-height: 200%; 
 letter-spacing: 0.48px;
 }
+.home{
+    position: absolute;
+    top: 400px;
+}
+.home3{
+    position: absolute;
+    top: 300px;
+}
+.home1{
+    position: relative;
+    bottom: 330px;
+}
+.home4{
+    position: relative;
+    bottom: 270px;
+}
