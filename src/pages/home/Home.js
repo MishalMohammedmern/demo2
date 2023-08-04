@@ -23,7 +23,7 @@ function Home() {
           <div className=' w-518 h-28 home ml-24'><p className=' text-white font-noto text-4xl font-bold tracking-widest '>Illuminate your space with style and efficiency</p></div>
           <div className=' w-518 h-28  ml-24 home1'><p className=' text-buttoncolor font-noto text-base font-normal m-0 '>We believe in the power of brands to create credibility. That’s why we partner with the best to bring you top-quality products. Trust us to deliver excellence, every time.
           Shop with confidence, knowing you’re getting the best.</p></div>
-          <button  className='font-noto text-sm text-color1 border-color1 rounded-md w-64 h-12 bg-black relative bottom-72 ml-24'>Learn More about Project</button>
+          <button  className='font-noto text-sm text-color1 border-color1 rounded-md w-64 h-12 bg-black home1 ml-24'>Learn More about Project</button>
           <div className='flex flex-row ml-55% home1 '>
             <div className='w-215 h-337 border-buttoncolor rounded-md  '><img className=' w-full h-full m-0   ' src="/images/img1.png" alt="" /></div>
             <div className='w-215 h-337 border-buttoncolor rounded-md ml-5 '><img className=' w-full h-full' src="/images/img2.png" alt="" /></div>
