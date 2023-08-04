@@ -18,21 +18,21 @@ function Home() {
 
         <div className='w-full h-968 bg-black pb-20'>
           <div className=' w-4/5 h-768 ml-44'><img className='w-full h-full ' src="/images/pumb.png" alt=""  /></div>
-          <div className=' ml-30% w-849 h-12 absolute top-56 flex flex-row'><input className='font-noto text-lg bg-black rounded-md text-buttoncolor w-full h-full border-buttoncolor pl-4' type="text"  placeholder='Search a Product...|'/>
-          <img className=' w-6 h-6 relative right-8 mt-4' src="/images/Search.png" alt=""  /></div>
-          <div className=' w-518 h-28 absolute top-96 ml-24'><p className=' text-white font-noto text-4xl font-bold tracking-widest'>Illuminate your space with style and efficiency</p></div>
-          <div className=' w-518 h-28  ml-24 relative bottom-80'><p className=' text-buttoncolor font-noto text-base font-normal '>We believe in the power of brands to create credibility. That’s why we partner with the best to bring you top-quality products. Trust us to deliver excellence, every time.
+          <div className=' ml-30% w-849 h-12 relative bottom-96 flex flex-row'><input className='font-noto text-lg bg-black rounded-md text-buttoncolor w-full h-full border-buttoncolor pl-4 relative bottom-60' type="text"  placeholder='Search a Product...|'/>
+          <img className=' w-6 h-6 relative right-8 mt-4  bottom-60' src="/images/Search.png" alt=""  /></div>
+          <div className=' w-518 h-28 relative bottom-96 ml-24'><p className=' text-white font-noto text-4xl font-bold tracking-widest m-0'>Illuminate your space with style and efficiency</p></div>
+          <div className=' w-518 h-28  ml-24 relative bottom-80'><p className=' text-buttoncolor font-noto text-base font-normal m-0 '>We believe in the power of brands to create credibility. That’s why we partner with the best to bring you top-quality products. Trust us to deliver excellence, every time.
           Shop with confidence, knowing you’re getting the best.</p></div>
           <button  className='font-noto text-sm text-color1 border-color1 rounded-md w-64 h-12 bg-black relative bottom-72 ml-24'>Learn More about Project</button>
           <div className='flex flex-row ml-55% relative bottom-96 '>
-            <div className='w-215 h-337 border-buttoncolor rounded-md '><img className=' w-full h-full   ' src="/images/img1.png" alt="" /></div>
-            <div className='w-215 h-337 border-buttoncolor rounded-md ml-5'><img className=' w-full h-full' src="/images/img2.png" alt="" /></div>
-            <div className='w-215 h-337 border-buttoncolor rounded-md ml-5'><img className=' w-full h-full' src="/images/img3.png" alt="" /></div>
+            <div className='w-215 h-337 border-buttoncolor rounded-md relative bottom-28'><img className=' w-full h-full m-0   ' src="/images/img1.png" alt="" /></div>
+            <div className='w-215 h-337 border-buttoncolor rounded-md ml-5 relative bottom-28'><img className=' w-full h-full' src="/images/img2.png" alt="" /></div>
+            <div className='w-215 h-337 border-buttoncolor rounded-md ml-5 relative bottom-28'><img className=' w-full h-full' src="/images/img3.png" alt="" /></div>
           </div>
-          <div className=' w-full flex flex-row justify-center relative bottom-72'>
-            <img className='w-28'  src="/images/white.png" alt=""  />
-            <img className='w-28 ml-5' src="/images/yellow.png" alt=""  />
-            <img className='w-28 ml-5' src="/images/white.png" alt=""  />
+          <div className=' w-full flex flex-row justify-center relative bottom-96'>
+            <img className='w-28 relative bottom-10'  src="/images/white.png" alt=""  />
+            <img className='w-28 ml-5 relative bottom-10' src="/images/yellow.png" alt=""  />
+            <img className='w-28 ml-5 relative bottom-10' src="/images/white.png" alt=""  />
           </div>
 
         </div>

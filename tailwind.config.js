@@ -57,6 +57,7 @@ module.exports = {
         '373':'373px',
         '731':'731px'
       }
+      
     }
   },
   plugins: [],
