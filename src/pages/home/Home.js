@@ -43,13 +43,13 @@ function Home() {
           <h3 className='mt-0 text-base text-gray1 w-702 font-normal font-noto text-center leading-12 tracking-wider'>We believe in the power of brands to create credibility. That’s why we partner with the best to bring you top-quality products. Trust us to deliver excellence, every time.Shop Now with confidence, knowing you’re getting the best.</h3></div>
           <div className=' w-1719  border-4 border-slate-500 mb-10'>
             <img className=' w-full h-460' src="/images/box.png" alt=""/>
-            <div className='flex flex-row relative bottom-96 '>
-              <div>
+            <div className='flex flex-row home5'>
+              <div className=''>
                 <div className='w-40 h-9 ml-32 mt-6'><img className='w-full h-full' src="/images/techno.png" alt="" /></div>
                 <div className=' w-80 mt-14 ml-12'><img className='w-full' src="/images/ver.png" alt=""  /></div>
               </div>
               <div className='flex '>
-                <div className='h-32 relative ml-10  bottom-7'>
+                <div className='h-32 home9 ml-10  '>
                   <img className='h-full' src="/images/hor.png" alt="" />
                 </div>
                 <div>
@@ -57,17 +57,17 @@ function Home() {
                 <div className=' w-80 mt-14 ml-12'><img className='w-full' src="/images/ver.png" alt=""  /></div></div>
               </div>
               <div className='flex '>
-                <div className='h-32 relative ml-10  bottom-7'>
+                <div className='h-32 home9 ml-10  '>
                   <img className='h-full' src="/images/hor.png" alt="" />
                 </div>
                 <div>
-                  <div className='ltech1 relative bottom-16 ml-9'>
-                <div className='w-40 h-9 ml-32 mt-6 relative top-16'><img className='w-full h-full' src="/images/ltech.png" alt="" /></div>
+                  <div className='ltech1 home11 ml-9'>
+                <div className='w-40 h-9 ml-24 mt-6 home12'><img className='w-full h-full' src="/images/ltech.png" alt="" /></div>
                 </div>
-                <div className=' w-80  ml-12 relative bottom-16 left-6'><img className='w-full' src="/images/ver.png" alt=""  /></div></div>
+                <div className=' w-80  ml-12 home11 '><img className='w-full' src="/images/ver.png" alt=""  /></div></div>
               </div>
               <div className='flex '>
-                <div className='h-32 relative ml-10  bottom-7'>
+                <div className='h-32 home9 ml-10  '>
                   <img className='h-full' src="/images/hor.png" alt="" />
                 </div>
                 <div>
@@ -75,12 +75,12 @@ function Home() {
                 <div className=' w-80 mt-14 ml-12'><img className='w-full' src="/images/ver.png" alt=""  /></div></div>
               </div>
             </div>
-            <div className='flex flex-row relative bottom-96 '>
+            <div className='flex flex-row home1 '>
               <div>
                 <div className='w-40 h-9 ml-32 mt-6'><img className='w-full h-full' src="/images/techno.png" alt="" /></div>
               </div>
               <div className='flex '>
-                <div className='h-32 relative ml-132  bottom-7'>
+                <div className='h-32  ml-132  home9'>
                   <img className='h-full' src="/images/hor.png" alt="" />
                 </div>
                 <div>
@@ -88,7 +88,7 @@ function Home() {
                 </div>
               </div>
               <div className='flex '>
-                <div className='h-32 relative ml-132  bottom-7'>
+                <div className='h-32 home9 ml-132  '>
                   <img className='h-full' src="/images/hor.png" alt="" />
                 </div>
                 <div>
@@ -98,7 +98,7 @@ function Home() {
           </div>
               </div>
               <div className='flex '>
-                <div className='h-32 relative ml-40  bottom-7'>
+                <div className='h-32 home9 ml-40 '>
                   <img className='h-full' src="/images/hor.png" alt="" />
                 </div>
                 <div>
@@ -111,10 +111,10 @@ function Home() {
 
 
         </div>
-        <div className=' relative bottom-72 w-full flex justify-center'>
+        <div className=' home1 w-full flex justify-center'>
           <Project/>
         </div>
-       <div className=' relative bottom-24'>
+       <div className='home8'>
         <Featured/>
        </div>
 
@@ -125,13 +125,13 @@ function Home() {
           <h3 className='mt-0 text-base text-gray1 w-702 font-normal font-noto text-center leading-12 tracking-wider'>Discover our wide range of lighting fixture categories and find the perfect addition to your space. From modern to classic, we have a style to suit every taste.Shop now and brighten up your home with our stunning lighting fixtures!</h3></div>
           <div className=' w-1719  border-4 border-slate-500 mb-10 mt-10'>
             <img className=' w-full h-56' src="/images/box.png" alt=""/>
-            <div className='flex flex-row relative bottom-48 '>
+            <div className='flex flex-row home6 '>
               <div>
                 <div className=' ml-14 mt-3'>Downlights</div>
                 <div className=' w-44 mt-8 ml-4'><img className='w-full' src="/images/ver.png" alt=""  /></div>
               </div>
               <div className='flex '>
-                <div className='h-24 relative ml-6  bottom-7'>
+                <div className='h-24 home9 ml-6  '>
                   <img className='h-full' src="/images/hor.png" alt="" />
                 </div>
                 <div>
@@ -139,7 +139,7 @@ function Home() {
                 <div className=' w-44 mt-8 ml-4'><img className='w-full' src="/images/ver.png" alt=""  /></div></div>
               </div>
               <div className='flex '>
-                <div className='h-24 relative ml-6  bottom-7'>
+                <div className='h-24 home9 ml-6'>
                   <img className='h-full' src="/images/hor.png" alt="" />
                 </div>
                 <div>
@@ -147,7 +147,7 @@ function Home() {
                 <div className=' w-44 mt-8 ml-4'><img className='w-full' src="/images/ver.png" alt=""  /></div></div>
               </div>
               <div className='flex '>
-                <div className='h-24 relative ml-6  bottom-7'>
+                <div className='h-24 home9 ml-6 '>
                   <img className='h-full' src="/images/hor.png" alt="" />
                 </div>
                 <div>
@@ -155,7 +155,7 @@ function Home() {
                 <div className=' w-44 mt-8 ml-4'><img className='w-full' src="/images/ver.png" alt=""  /></div></div>
               </div>
               <div className='flex '>
-                <div className='h-24 relative ml-6  bottom-7'>
+                <div className='h-24 home9 ml-6'>
                   <img className='h-full' src="/images/hor.png" alt="" />
                 </div>
                 <div>
@@ -163,7 +163,7 @@ function Home() {
                 <div className=' w-44 mt-8 ml-4'><img className='w-full' src="/images/ver.png" alt=""  /></div></div>
               </div>
               <div className='flex '>
-                <div className='h-24 relative ml-6  bottom-7'>
+                <div className='h-24 home9 ml-6'>
                   <img className='h-full' src="/images/hor.png" alt="" />
                 </div>
                 <div>
@@ -171,7 +171,7 @@ function Home() {
                 <div className=' w-44 mt-8 ml-4'><img className='w-full' src="/images/ver.png" alt=""  /></div></div>
               </div>
               <div className='flex '>
-                <div className='h-24 relative ml-6  bottom-7'>
+                <div className='h-24 home9 ml-6'>
                   <img className='h-full' src="/images/hor.png" alt="" />
                 </div>
                 <div>
@@ -179,7 +179,7 @@ function Home() {
                 <div className=' w-44 mt-8 ml-4'><img className='w-full' src="/images/ver.png" alt=""  /></div></div>
               </div>
               <div className='flex '>
-                <div className='h-24 relative ml-6  bottom-7'>
+                <div className='h-24 home9 ml-6 '>
                   <img className='h-full' src="/images/hor.png" alt="" />
                 </div>
                 <div>
@@ -187,13 +187,13 @@ function Home() {
                 <div className=' w-44 mt-8 ml-4'><img className='w-full' src="/images/ver.png" alt=""  /></div></div>
               </div>
             </div>
-            <div className='flex flex-row relative bottom-44 '>
+            <div className='flex flex-row home7 '>
               <div>
                 <div className=' ml-14 mt-3 w-40'>Mirror Lights</div>
               
               </div>
               <div className='flex '>
-                <div className='h-24 relative   bottom-7'>
+                <div className='h-24 home9'>
                   <img className='h-full' src="/images/hor.png" alt="" />
                 </div>
                 <div>
@@ -201,7 +201,7 @@ function Home() {
                 </div>
               </div>
               <div className='flex '>
-                <div className='h-24 relative ml-8  bottom-7'>
+                <div className='h-24 home9 ml-8 '>
                   <img className='h-full' src="/images/hor.png" alt="" />
                 </div>
                 <div>
@@ -209,7 +209,7 @@ function Home() {
                 </div>
               </div>
               <div className='flex '>
-                <div className='h-24 relative ml-6  bottom-7'>
+                <div className='h-24 home9 ml-6  '>
                   <img className='h-full' src="/images/hor.png" alt="" />
                 </div>
                 <div>
@@ -217,7 +217,7 @@ function Home() {
                 </div>
               </div>
               <div className='flex '>
-                <div className='h-24 relative ml-7  bottom-7'>
+                <div className='h-24 home9 ml-7  '>
                   <img className='h-full' src="/images/hor.png" alt="" />
                 </div>
                 <div>
@@ -225,15 +225,15 @@ function Home() {
                 </div>
               </div>
               <div className='flex '>
-                <div className='h-24 relative ml-7  bottom-7'>
+                <div className='h-24 home9 ml-7  '>
                   <img className='h-full' src="/images/hor.png" alt="" />
                 </div>
                 <div>
-                <div className='ml-3  w-40 ltech relative bottom-6 text-buttoncolor flex justify-center items-center'>Strip & Neon Lights</div>
+                <div className='ml-3  w-40 ltech home10 text-buttoncolor flex justify-center items-center'>Strip & Neon Lights</div>
                 </div>
               </div>
               <div className='flex '>
-                <div className='h-24 relative ml-7  bottom-7'>
+                <div className='h-24 home9 ml-7 '>
                   <img className='h-full' src="/images/hor.png" alt="" />
                 </div>
                 <div>
@@ -241,7 +241,7 @@ function Home() {
                 </div>
               </div>
               <div className='flex '>
-                <div className='h-24 relative ml-7  bottom-7'>
+                <div className='h-24 home9 ml-7  '>
                   <img className='h-full' src="/images/hor.png" alt="" />
                 </div>
                 <div>
@@ -250,7 +250,7 @@ function Home() {
               </div>
             </div>
           </div>
-          <div className=' relative bottom-24'>
+          <div className=' home8'>
           <Project/>
           </div>
        </div>
@@ -337,15 +337,15 @@ function Home() {
             <div className='flex justify-center'>
               <div>
                 <img className=' w-702 h-265' src="/images/des1.png" alt=""  />
-                <p className=' w-650 text1 font-noto font-normal text-gray1 relative bottom-60 ml-10'>Don't just take our word for it - see what our satisfied customers have to say about our lighting fixtures! From exceptional quality to unbeatable style, our fixtures have made a big impact in homes across the country. Read our testimonials and see for yourself!"</p>
+                <p className=' w-650 text1 font-noto font-normal text-gray1 home13 ml-10'>Don't just take our word for it - see what our satisfied customers have to say about our lighting fixtures! From exceptional quality to unbeatable style, our fixtures have made a big impact in homes across the country. Read our testimonials and see for yourself!"</p>
               </div>
               <div>
                 <img className=' w-702 h-265' src="/images/des2.png" alt=""  />
-                <p className=' w-650 text1 font-noto font-normal text-gray1 relative bottom-60 ml-10'>Don't just take our word for it - see what our satisfied customers have to say about our lighting fixtures! From exceptional quality to unbeatable style, our fixtures have made a big impact in homes across the country. Read our testimonials and see for yourself!"</p>
+                <p className=' w-650 text1 font-noto font-normal text-gray1 home13 ml-10'>Don't just take our word for it - see what our satisfied customers have to say about our lighting fixtures! From exceptional quality to unbeatable style, our fixtures have made a big impact in homes across the country. Read our testimonials and see for yourself!"</p>
 
               </div>
             </div>
-            <div className='flex justify-center m-0 relative bottom-20'>
+            <div className='flex justify-center m-0 home8'>
               <div className='flex'>
                 <div>
                   <h5 className='m-0 text-lg font-noto text-textblack'>Santosh Khan</h5>
@@ -363,7 +363,7 @@ function Home() {
 
             </div>
           </div>
-          <div className='w-full flex-col flex justify-center relative bottom-12 items-center'>
+          <div className='w-full flex-col flex justify-center home15 items-center'>
             <div>
           <h3 className='mt-103 text-textblack text-4xl font-noto font-bold text-center'>News, Blog & Articles</h3>
             <p className=' w-731 text-center text1 font-noto font-normal text-gray1 mt-0'>Stay up-to-date with the latest trends and news in the world of lighting fixtures with our informative blog and articles. From design tips to product reviews, we’ve got you covered. Check out our latest posts and discover something new!</p>
@@ -399,7 +399,7 @@ function Home() {
                <img className='w-40 ml-5' src="/images/under.png" alt=""  />
             </div>
            </div>
-           <div className='w-full relative top-36'>
+           <div className='w-full home14'>
             <Project/>
            </div>
           </div>
