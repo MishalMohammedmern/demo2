@@ -43,7 +43,7 @@ function Home() {
           <h3 className='mt-0 text-base text-gray1 w-702 font-normal font-noto text-center leading-12 tracking-wider'>We believe in the power of brands to create credibility. That’s why we partner with the best to bring you top-quality products. Trust us to deliver excellence, every time.Shop Now with confidence, knowing you’re getting the best.</h3></div>
           <div className=' w-1719  border-4 border-slate-500 mb-10'>
             <img className=' w-full h-460' src="/images/box.png" alt=""/>
-            <div className='flex flex-row ' id='home1'>
+            <div className='flex flex-row home5'>
               <div className=''>
                 <div className='w-40 h-9 ml-32 mt-6'><img className='w-full h-full' src="/images/techno.png" alt="" /></div>
                 <div className=' w-80 mt-14 ml-12'><img className='w-full' src="/images/ver.png" alt=""  /></div>
@@ -111,7 +111,7 @@ function Home() {
 
 
         </div>
-        <div className=' relative bottom-72 w-full flex justify-center'>
+        <div className=' home1 w-full flex justify-center'>
           <Project/>
         </div>
        <div className=' relative bottom-24'>
@@ -125,7 +125,7 @@ function Home() {
           <h3 className='mt-0 text-base text-gray1 w-702 font-normal font-noto text-center leading-12 tracking-wider'>Discover our wide range of lighting fixture categories and find the perfect addition to your space. From modern to classic, we have a style to suit every taste.Shop now and brighten up your home with our stunning lighting fixtures!</h3></div>
           <div className=' w-1719  border-4 border-slate-500 mb-10 mt-10'>
             <img className=' w-full h-56' src="/images/box.png" alt=""/>
-            <div className='flex flex-row relative bottom-48 '>
+            <div className='flex flex-row home6 '>
               <div>
                 <div className=' ml-14 mt-3'>Downlights</div>
                 <div className=' w-44 mt-8 ml-4'><img className='w-full' src="/images/ver.png" alt=""  /></div>
@@ -187,7 +187,7 @@ function Home() {
                 <div className=' w-44 mt-8 ml-4'><img className='w-full' src="/images/ver.png" alt=""  /></div></div>
               </div>
             </div>
-            <div className='flex flex-row relative bottom-44 '>
+            <div className='flex flex-row home7 '>
               <div>
                 <div className=' ml-14 mt-3 w-40'>Mirror Lights</div>
               

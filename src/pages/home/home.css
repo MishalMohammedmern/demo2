@@ -33,7 +33,7 @@ letter-spacing: 0.48px;
     position: relative;
     bottom: 330px;
 }
-#home1{
+.home5{
     position: relative;
     bottom: 360px;
 }
@@ -44,4 +44,12 @@ letter-spacing: 0.48px;
 .home2{
     position: relative;
     right: 32px;
+}
+.home6{
+    position: relative;
+    bottom: 200px;
+}
+.home7{
+    position: relative;
+    bottom: 180px;
 }
