@@ -1,0 +1,23 @@
+.ltech{
+width: 178px;
+height: 92px;
+flex-shrink: 0;
+border-radius: 4px;
+background: var(--gradient, linear-gradient(135deg, #7D8085 0%, #393D46 41.69%));
+
+}
+.ltech1{
+border-radius: 4px;
+background: var(--gradient, linear-gradient(135deg, #7D8085 0%, #393D46 41.69%));
+width: 395px;
+height: 157.385px;
+flex-shrink: 0;
+}
+.box{
+    background: var(--gradient, linear-gradient(135deg, #7D8085 0%, #393D46 41.69%)); 
+}
+.text1{
+
+line-height: 200%; 
+letter-spacing: 0.48px;
+}
